@@ -1,0 +1,21 @@
+
+* Ideia inicial entender dois conceitos: 
+
+    1) Sentença de código
+        - Pode ou não terminar com ; (Por simplicidade melhor utilizar ;)
+
+        - Algumas linguagens obrigam isto, mas não o JS
+
+        - Uma sentença de código pode ocupar várias linhas
+            Ex.: Identação.
+
+        - Possibilita quebra de linhas em grande parte das vezes
+
+        - Passa comandos imperativos para o computador executar
+
+        - Computador lê as sentenças de cima para baixo
+
+    2) Bloco de código: Agrupamento de sentenças de códigos
+        - Porque é importante agrupar sentenças de código? Qual o propósito?
+
+* Sistema hierárquico
